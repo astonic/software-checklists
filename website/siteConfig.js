@@ -30,12 +30,11 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'software-checklist',
-  organizationName: 'software-checklists',
+
   url: 'https://astonic.github.io', // Replace USERNAME with your GitHub username.
   baseUrl: '/software-checklists/', // The name of your GitHub project.
   projectName: 'software-checklists',  // The name of your GitHub project. Same as above.
-  organizationName: 'astonic', // Your GitHub username.
+  organizationName: 'astonic ', // Your GitHub username.
 
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
