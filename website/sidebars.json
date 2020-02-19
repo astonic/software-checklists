@@ -1,11 +1,15 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"],
-    "Last category": ["doc9"]
+    "Pre-Developement": ["pre-Development-Checklist"],
+    "Requirements": ["agile-web-story-templ"],
+    "Development": ["pre-Development-Checklist"],
+    "Testing": ["doc2"],
+    "Deployment": ["coding-std-rest-api"],
+    "Production": ["post-live-checklist-appservice-azure", "post-live-checklist-keyvault-azure"]
+  
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
   }
 }
+ 
