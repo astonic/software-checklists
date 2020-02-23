@@ -1,5 +1,8 @@
 # software-checklists
 
+The project was created using : https://docusaurus.io/docs/en/tutorial-create-new-site
+
+
 windows publish command: 
 set GIT_USER=<git username>&& set CURRENT_BRANCH=master&&  npm run publish-gh-pages
 

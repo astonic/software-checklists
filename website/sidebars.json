@@ -3,9 +3,10 @@
     "Pre-Developement": ["pre-Development-Checklist"],
     "Requirements": ["agile-web-story-templ"],
     "Development": ["pre-Development-Checklist"],
-    "Testing": ["doc2"],
+    "Testing": ["Testing"],
     "Deployment": ["coding-std-rest-api"],
-    "Production": ["post-live-checklist-appservice-azure", "post-live-checklist-keyvault-azure"]
+    "Production": ["post-live-checklist-appservice-azure", "post-live-checklist-keyvault-azure"],
+    "Security": ["paas-web-security", "paas-infrastructure-security"]
   
   },
   "docs-other": {
